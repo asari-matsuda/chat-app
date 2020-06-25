@@ -39,6 +39,7 @@
   background-color: #2f3e51;
   height: calc(100vh - 100px);
   padding: 0 20px;
+  color: #ffffff;
 }
 
 .room {
