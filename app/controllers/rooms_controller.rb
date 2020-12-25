@@ -21,7 +21,6 @@ class RoomsController < ApplicationController
     if room.delete
       redirect_to root_path
     else
-
     end
   end
 
